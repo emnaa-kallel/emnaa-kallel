@@ -12,10 +12,9 @@ First-year Software Engineering student with a strong interest in Web Developmen
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=emnaa-kallel&theme=blue_navy&hide_border=false)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=emnaa-kallel&show_icons=true&theme=blue_navy&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=emnaa-kallel&show_icons=true&theme=blue_navy&count_private=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emnaa-kallel&layout=compact&theme=blue_navy)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emnaa-kallel&layout=compact&theme=blue_navy&cache_seconds=86400)
 
 
 ---
