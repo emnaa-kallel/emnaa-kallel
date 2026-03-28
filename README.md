@@ -10,11 +10,11 @@ First-year Software Engineering student with a strong interest in Web Developmen
 
 # 📊 GitHub Stats:
 
-!(https://github-readme-stats.vercel.app/api?username=emnaa-kallel&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
+![Stats](https://github-readme-stats.vercel.app/api?username=emnaa-kallel&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
 
-!(https://streak-stats.demolab.com?user=emnaa-kallel&theme=blue_navy&hide_border=false)
+![Streak](https://streak-stats.demolab.com?user=emnaa-kallel&theme=blue_navy&hide_border=false)
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=emnaa-kallel&layout=compact&theme=blue_navy&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emnaa-kallel&layout=compact&theme=blue_navy&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emnaa-kallel&icon=0&color=0)](https://visitcount.itsvg.in) 
